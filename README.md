@@ -6,6 +6,7 @@
 
 <a href="https://www.dvasyliev.com/"><img src="https://img.shields.io/badge/website-dvasyliev.com-0d1117?style=flat" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/dvasyliev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:jobs@dvasyliev.com"><img src="https://img.shields.io/badge/Email-jobs@dvasyliev.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.dvasyliev.com/courses"><img src="https://img.shields.io/badge/Courses-235K%2B_students-A435F0?style=flat&logo=udemy&logoColor=white" alt="Courses"/></a>
 <a href="https://github.com/dvasyliev"><img src="https://img.shields.io/github/followers/dvasyliev?label=Follow&style=social" alt="Follow"/></a>
 
@@ -14,6 +15,9 @@
 👨‍💻 I'm a Senior Frontend Engineer with 11+ years in React, Next.js and TypeScript.
 
 I work on established products that need new features and a cleaner codebase at the same time. I stay hands-on: I write the code myself, use AI tools every day and move old code to the new stack without stopping releases.
+
+🟢 **Open to long-term remote contract work** as a **Senior Frontend Engineer** or **Frontend Lead** with companies in 🇺🇸 the US, 🇬🇧 the UK, 🇳🇱 the Netherlands, 🇧🇪 Belgium, 🇩🇪 Germany and 🇵🇱 Poland.<br/>
+📩 Send me a message about the product you're building or the old code that's slowing you down: **[jobs@dvasyliev.com](mailto:jobs@dvasyliev.com)**
 
 ### Where I have deep experience
 
@@ -79,11 +83,9 @@ I teach developers what I use in production: practical, project-based courses on
 
 <p align="center"><a href="https://www.dvasyliev.com/courses"><b>See all 25+ courses →</b></a></p>
 
-### How to reach me
+### Let's work together
 
-Open to long-term remote contract work as a **Senior Frontend Engineer** or **Frontend Lead** with companies in 🇺🇸 the US, 🇬🇧 the UK, 🇳🇱 the Netherlands, 🇧🇪 Belgium, 🇩🇪 Germany and 🇵🇱 Poland.
-
-📩 Send me a message about the product you're building or the old code that's slowing you down.
+📩 Building a product or stuck with old code? Write to me and tell me about it.
 
 <a href="mailto:jobs@dvasyliev.com"><img src="https://img.shields.io/badge/Email-jobs@dvasyliev.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/dvasyliev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
