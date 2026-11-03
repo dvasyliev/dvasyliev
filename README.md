@@ -69,6 +69,8 @@ I teach developers what I use in production: practical, project-based courses on
   <a href="https://go.dvasyliev.com/claude-code"><img src="./assets/courses/claude-code.png" width="150" alt="Claude Code: AI Crash Course for Developers"/></a>
   <a href="https://go.dvasyliev.com/cca-f"><img src="./assets/courses/cca-f.png" width="150" alt="CCA-F: Claude Certified Architect - Practice Certification Exam"/></a>
   <a href="https://go.dvasyliev.com/openclaw"><img src="./assets/courses/openclaw.png" width="150" alt="OpenClaw for Developers: AI Coding Crash Course"/></a>
+</p>
+<p align="center">
   <a href="https://go.dvasyliev.com/copilot"><img src="./assets/courses/copilot.png" width="150" alt="GitHub Copilot for Beginners: AI Coding Crash Course"/></a>
   <a href="https://go.dvasyliev.com/cursor"><img src="./assets/courses/cursor.png" width="150" alt="Cursor AI for Beginners: AI Coding Crash Course"/></a>
   <a href="https://go.dvasyliev.com/react"><img src="./assets/courses/react.png" width="150" alt="React Crash Course: From Zero to Hero"/></a>
