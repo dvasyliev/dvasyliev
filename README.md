@@ -67,12 +67,14 @@ I teach developers what I use in production: practical, project-based courses on
 #### Featured courses
 
 <p align="center">
-  <a href="https://go.dvasyliev.com/harness-engineering"><img src="./assets/courses/harness-engineering.png" width="272" alt="Harness Engineering: Modern AI Software Development Bootcamp"/></a>
-  <a href="https://go.dvasyliev.com/claude-code"><img src="./assets/courses/claude-code.png" width="272" alt="Claude Code: AI Crash Course for Developers"/></a>
-  <a href="https://go.dvasyliev.com/copilot"><img src="./assets/courses/copilot.png" width="272" alt="GitHub Copilot for Beginners: AI Coding Crash Course"/></a>
-  <a href="https://go.dvasyliev.com/cursor"><img src="./assets/courses/cursor.png" width="272" alt="Cursor AI for Beginners: AI Coding Crash Course"/></a>
-  <a href="https://go.dvasyliev.com/react"><img src="./assets/courses/react.png" width="272" alt="React Crash Course: From Zero to Hero"/></a>
-  <a href="https://go.dvasyliev.com/nextjs"><img src="./assets/courses/nextjs.png" width="272" alt="Next.js Crash Course: Build a Full-Stack App in a Weekend"/></a>
+  <a href="https://go.dvasyliev.com/harness-engineering"><img src="./assets/courses/harness-engineering.png" width="176" alt="Harness Engineering: Modern AI Software Development Bootcamp"/></a>
+  <a href="https://go.dvasyliev.com/claude-code"><img src="./assets/courses/claude-code.png" width="176" alt="Claude Code: AI Crash Course for Developers"/></a>
+  <a href="https://go.dvasyliev.com/cca-f"><img src="./assets/courses/cca-f.png" width="176" alt="CCA-F: Claude Certified Architect - Practice Certification Exam"/></a>
+  <a href="https://go.dvasyliev.com/openclaw"><img src="./assets/courses/openclaw.png" width="176" alt="OpenClaw for Developers: AI Coding Crash Course"/></a>
+  <a href="https://go.dvasyliev.com/copilot"><img src="./assets/courses/copilot.png" width="176" alt="GitHub Copilot for Beginners: AI Coding Crash Course"/></a>
+  <a href="https://go.dvasyliev.com/cursor"><img src="./assets/courses/cursor.png" width="176" alt="Cursor AI for Beginners: AI Coding Crash Course"/></a>
+  <a href="https://go.dvasyliev.com/react"><img src="./assets/courses/react.png" width="176" alt="React Crash Course: From Zero to Hero"/></a>
+  <a href="https://go.dvasyliev.com/nextjs"><img src="./assets/courses/nextjs.png" width="176" alt="Next.js Crash Course: Build a Full-Stack App in a Weekend"/></a>
 </p>
 
 <p align="center"><a href="https://www.dvasyliev.com/courses"><b>See all 25+ courses →</b></a></p>
