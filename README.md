@@ -23,15 +23,6 @@ I work on established products that need new features and a cleaner codebase at 
 🎨 **Design Systems** — Build a shared library of 90+ components used across several products.<br/>
 🧪 **Testing** — Cover each change with tests in Jest, Vitest and Cypress so nothing breaks.
 
-### Teaching & Course Creation
-
-I teach developers what I use in production: practical, project-based courses on AI coding tools, Agentic AI, Vibe Coding and modern full-stack technologies. Every course builds on projects I ship and workflows I test first. Students learn what holds up in real work, from new framework releases to AI coding tools.
-
-👨‍🎓 Taught **235,000+ students** across Udemy and Coursera, with a **4.4+ average rating**.<br/>
-📚 Created **25+ courses** across AI coding, frontend, full-stack and modern developer tools.
-
-<a href="https://www.dvasyliev.com/courses"><img src="https://img.shields.io/badge/Courses-235K%2B_students-A435F0?style=flat&logo=udemy&logoColor=white" alt="Courses"/></a>
-
 ### Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -65,6 +56,26 @@ I teach developers what I use in production: practical, project-based courses on
 ![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted_Development-412991?style=flat&logo=chatbot&logoColor=white)
 ![Legacy Modernization](https://img.shields.io/badge/Legacy_Modernization-F05032?style=flat&logo=git&logoColor=white)
 ![Code Refactoring](https://img.shields.io/badge/Code_Refactoring-555555?style=flat&logo=codefactor&logoColor=white)
+
+### Teaching & Course Creation
+
+I teach developers what I use in production: practical, project-based courses on AI coding tools, Agentic AI, Vibe Coding and modern full-stack technologies. Every course builds on projects I ship and workflows I test first. Students learn what holds up in real work, from new framework releases to AI coding tools.
+
+👨‍🎓 Taught **235,000+ students** across Udemy and Coursera, with a **4.4+ average rating**.<br/>
+📚 Created **25+ courses** across AI coding, frontend, full-stack and modern developer tools.
+
+#### Featured courses
+
+<p align="center">
+  <a href="https://go.dvasyliev.com/harness-engineering"><img src="./assets/courses/harness-engineering.png" width="272" alt="Harness Engineering: Modern AI Software Development Bootcamp"/></a>
+  <a href="https://go.dvasyliev.com/claude-code"><img src="./assets/courses/claude-code.png" width="272" alt="Claude Code: AI Crash Course for Developers"/></a>
+  <a href="https://go.dvasyliev.com/copilot"><img src="./assets/courses/copilot.png" width="272" alt="GitHub Copilot for Beginners: AI Coding Crash Course"/></a>
+  <a href="https://go.dvasyliev.com/cursor"><img src="./assets/courses/cursor.png" width="272" alt="Cursor AI for Beginners: AI Coding Crash Course"/></a>
+  <a href="https://go.dvasyliev.com/react"><img src="./assets/courses/react.png" width="272" alt="React Crash Course: From Zero to Hero"/></a>
+  <a href="https://go.dvasyliev.com/nextjs"><img src="./assets/courses/nextjs.png" width="272" alt="Next.js Crash Course: Build a Full-Stack App in a Weekend"/></a>
+</p>
+
+<p align="center"><a href="https://www.dvasyliev.com/courses"><b>See all 25+ courses →</b></a></p>
 
 ### How to reach me
 
