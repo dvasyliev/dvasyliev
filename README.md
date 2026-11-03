@@ -16,7 +16,8 @@
 
 I work on established products that need new features and a cleaner codebase at the same time. I stay hands-on: I write the code myself, use AI tools every day and move old code to the new stack without stopping releases.
 
-🟢 **Open to long-term remote contract work** as a **Senior Frontend Engineer** or **Frontend Lead** with companies in 🇺🇸 the US, 🇬🇧 the UK, 🇳🇱 the Netherlands, 🇧🇪 Belgium, 🇩🇪 Germany and 🇵🇱 Poland.<br/>
+🟢 **Open to long-term remote contract work** as a **Senior Frontend Engineer** or **Frontend Lead** with companies in 🇺🇸 the US, 🇬🇧 the UK, 🇳🇱 the Netherlands, 🇧🇪 Belgium, 🇩🇪 Germany and 🇵🇱 Poland.
+
 📩 Send me a message about the product you're building or the old code that's slowing you down: **[jobs@dvasyliev.com](mailto:jobs@dvasyliev.com)**
 
 ### Where I have deep experience
@@ -36,7 +37,6 @@ I work on established products that need new features and a cleaner codebase at 
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![SSR](https://img.shields.io/badge/SSR-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![BFF](https://img.shields.io/badge/BFF-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat&logo=ghost&logoColor=white)
 ![React Aria](https://img.shields.io/badge/React_Aria-E1251B?style=flat&logo=react&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=000000)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
@@ -53,13 +53,7 @@ I work on established products that need new features and a cleaner codebase at 
 ![WCAG](https://img.shields.io/badge/%E2%99%BF_WCAG-005A9C?style=flat)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=chatbot&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 ![Harness Engineering](https://img.shields.io/badge/Harness_Engineering-191919?style=flat&logo=anthropic&logoColor=white)
-![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted_Development-412991?style=flat&logo=chatbot&logoColor=white)
-![Legacy Modernization](https://img.shields.io/badge/Legacy_Modernization-F05032?style=flat&logo=git&logoColor=white)
-![Code Refactoring](https://img.shields.io/badge/Code_Refactoring-555555?style=flat&logo=codefactor&logoColor=white)
 
 ### Teaching & Course Creation
 
