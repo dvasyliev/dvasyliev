@@ -2,8 +2,6 @@
   <img src="./banner.svg" alt="Dmytro Vasyliev — Senior Frontend Engineer" width="100%"/>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" align="center"/> Hello there!
-
 <a href="https://www.dvasyliev.com/"><img src="https://img.shields.io/badge/website-dvasyliev.com-0d1117?style=flat" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/dvasyliev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:jobs@dvasyliev.com"><img src="https://img.shields.io/badge/Email-jobs@dvasyliev.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
