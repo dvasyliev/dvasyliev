@@ -8,7 +8,7 @@
 <a href="https://www.dvasyliev.com/courses"><img src="https://img.shields.io/badge/Courses-235K%2B_students-A435F0?style=flat&logo=udemy&logoColor=white" alt="Courses"/></a>
 <a href="https://github.com/dvasyliev"><img src="https://img.shields.io/github/followers/dvasyliev?label=Follow&style=social" alt="Follow"/></a>
 
-### About Me
+# About Me
 
 👨‍💻 I'm a Senior Frontend Engineer with 11+ years in React, Next.js and TypeScript.
 
@@ -53,15 +53,13 @@ I work on established products that need new features and a cleaner codebase at 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
 ![Harness Engineering](https://img.shields.io/badge/Harness_Engineering-191919?style=flat&logo=anthropic&logoColor=white)
 
-### Teaching & Course Creation
+<!-- COURSES:START -->
+# My Educational Courses
 
 I teach developers what I use in production: practical, project-based courses on AI coding tools, Agentic AI, Vibe Coding and modern full-stack technologies. Every course builds on projects I ship and workflows I test first. Students learn what holds up in real work, from new framework releases to AI coding tools.
 
 👨‍🎓 Taught **235,000+ students** across Udemy and Coursera, with a **4.4+ average rating**.<br/>
 📚 Created **25+ courses** across AI coding, frontend, full-stack and modern developer tools.
-
-<!-- COURSES:START -->
-# All My Courses
 
 #### AI Coding Courses
 
@@ -90,7 +88,7 @@ I teach developers what I use in production: practical, project-based courses on
 [See more courses →](https://www.dvasyliev.com/courses)
 <!-- COURSES:END -->
 
-### Let's work together
+# Let's work together
 
 📩 Building a product or stuck with old code? Write to me and tell me about it.
 
