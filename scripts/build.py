@@ -1,21 +1,17 @@
 """Build README.md and banner.svg from the profile submodule (profile/dist/github/).
 
-The courses block between <!-- COURSES:START --> and <!-- COURSES:END --> is kept from the current README.md:
-the courses-links sync fills it in.
+The courses section is part of that README, and its cards (profile/dist/github/courses/) are copied to courses/.
 
 Usage: python3 scripts/build.py   (after `git submodule update --remote profile`)
 """
 
-import re
 import shutil
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "profile/dist/github"
-COURSES = re.compile(r"<!-- COURSES:START -->.*?<!-- COURSES:END -->", re.S)
 
-readme = ROOT / "README.md"
-courses = COURSES.search(readme.read_text()).group(0)
-readme.write_text(COURSES.sub(lambda _: courses, (SOURCE / "README.md").read_text()))
+shutil.copyfile(SOURCE / "README.md", ROOT / "README.md")
 shutil.copyfile(SOURCE / "banner.svg", ROOT / "banner.svg")
-print(f"{readme}\n{ROOT / 'banner.svg'}")
+shutil.copytree(SOURCE / "courses", ROOT / "courses", dirs_exist_ok=True)  # the course cards the README shows
+print(f"{ROOT / 'README.md'}\n{ROOT / 'banner.svg'}\n{ROOT / 'courses'}")
