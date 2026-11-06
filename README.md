@@ -4,54 +4,48 @@
 
 <a href="https://www.dvasyliev.com"><img src="https://img.shields.io/badge/website-dvasyliev.com-0d1117?style=flat" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/dvasyliev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:jobs@dvasyliev.com"><img src="https://img.shields.io/badge/Email-jobs@dvasyliev.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.dvasyliev.com/courses"><img src="https://img.shields.io/badge/Courses-235K%2B_students-A435F0?style=flat&logo=udemy&logoColor=white" alt="Courses"/></a>
 <a href="https://github.com/dvasyliev"><img src="https://img.shields.io/github/followers/dvasyliev?label=Follow&style=social" alt="Follow"/></a>
 
 ## About Me
 
-👨‍💻 I'm a Senior Frontend Engineer with 11+ years in React, Next.js and TypeScript.
+👨‍💻 I am a **Senior Full-Stack Engineer** with **11+ years** of experience building web applications. For the past four years I have led the frontend at Doccle, a document platform used by **2.5M people** and integrated with **150+ companies**.
 
-I work on established products that need new features and a cleaner codebase at the same time. I stay hands-on: I write the code myself, use AI tools every day and move old code to the new stack without stopping releases.
+🤖 **AI & Agents:** I set up the team's AI development workflow on Claude Code: features ship faster, merge requests arrive cleaner, an agent handles the routine of finding and fixing review issues, and test coverage grew to **70–80%**.
 
-🟢 **Open to long-term remote contract work** as a **Senior Frontend Engineer** or **Frontend Lead** with companies in 🇺🇸 the US, 🇬🇧 the UK, 🇳🇱 the Netherlands, 🇧🇪 Belgium, 🇩🇪 Germany and 🇵🇱 Poland.
+🏗️ **Architecture & Leadership:** I set the technical direction and lead teams from scope to release. At Doccle I cut duplicated UI code several times over with a design system of **90+ components** and led the migration off the legacy stack. At DasLab I grew the frontend team to **5 engineers** and set up the process from scratch.
 
-📩 Send me a message about the product you're building or the old code that's slowing you down: **[jobs@dvasyliev.com](mailto:jobs@dvasyliev.com)**
+🎯 **Product focus:** I shape the scope with product owners and CTOs: propose simpler ways to build features and decide with them what to ship first. At Doccle I delivered a payment widget to **hundreds of thousands of users**. At DasLab I led the frontend architecture of a diagnostics platform behind **600K+ delivered test results**.
 
-### Where I have deep experience
+🎓 On Udemy and Coursera I have taught **235,000+ students** in **25+ courses**, with a **4.4+ average rating**.
 
-🛠️ **Hands-On Feature Development** — Own features end to end on the new Next.js stack while the migration runs.<br/>
-🤖 **AI-Assisted Development** — Automate the development workflow with AI, from ticket to reviewed merge request.<br/>
-🔄 **Legacy Refactoring & Migrations** — Move a legacy Grails application to Next.js piece by piece, without freezing releases.<br/>
-🎨 **Design Systems** — Build a shared library of 90+ components used across several products.<br/>
-🧪 **Testing** — Cover each change with tests in Jest, Vitest and Cypress so nothing breaks.
+### Open to long-term remote B2B contract
 
-### Tech Stack
+📩 Email: [jobs@dvasyliev.com](mailto:jobs@dvasyliev.com)  
+📄 Download my CV: [dmytro-vasyliev-senior-full-stack-engineer.pdf](https://www.dvasyliev.com/dmytro-vasyliev-senior-full-stack-engineer.pdf)
+
+### Top Skills
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![SSR](https://img.shields.io/badge/SSR-000000?style=flat&logo=nextdotjs&logoColor=white)
-![BFF](https://img.shields.io/badge/BFF-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React Aria](https://img.shields.io/badge/React_Aria-E1251B?style=flat&logo=react&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=000000)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=flat&logo=nuxt&logoColor=00DC82)
-![Design Systems](https://img.shields.io/badge/Design_Systems-F24E1E?style=flat&logo=figma&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
-![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?style=flat&logo=chromatic&logoColor=white)
-![Nx](https://img.shields.io/badge/Nx-143055?style=flat&logo=nx&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/%F0%9F%8E%AD_Playwright-2EAD33?style=flat)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=000000)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![SSR](https://img.shields.io/badge/SSR-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design_Systems-F24E1E?style=flat&logo=figma&logoColor=white)
 ![WCAG](https://img.shields.io/badge/%E2%99%BF_WCAG-005A9C?style=flat)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
-![Harness Engineering](https://img.shields.io/badge/Harness_Engineering-191919?style=flat&logo=anthropic&logoColor=white)
+![Nx Monorepo](https://img.shields.io/badge/Nx_Monorepo-143055?style=flat&logo=nx&logoColor=white)
 
 <!-- COURSES:START -->
 ## My Educational Courses
@@ -87,10 +81,3 @@ I teach developers what I use in production: practical, project-based courses on
 
 [See more courses →](https://www.dvasyliev.com/courses)
 <!-- COURSES:END -->
-
-## Let's work together
-
-📩 Building a product or stuck with old code? Write to me and tell me about it.
-
-<a href="mailto:jobs@dvasyliev.com"><img src="https://img.shields.io/badge/Email-jobs@dvasyliev.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/dvasyliev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
