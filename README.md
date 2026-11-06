@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./banner.svg" alt="Dmytro Vasyliev — Senior Frontend Engineer" width="100%"/>
+  <img src="./banner.svg" alt="Dmytro Vasyliev — Senior Full-Stack Engineer" width="100%"/>
 </p>
 
-<a href="https://www.dvasyliev.com/"><img src="https://img.shields.io/badge/website-dvasyliev.com-0d1117?style=flat" alt="Website"/></a>
-<a href="https://www.linkedin.com/in/dvasyliev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.dvasyliev.com"><img src="https://img.shields.io/badge/website-dvasyliev.com-0d1117?style=flat" alt="Website"/></a>
+<a href="https://www.linkedin.com/in/dvasyliev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:jobs@dvasyliev.com"><img src="https://img.shields.io/badge/Email-jobs@dvasyliev.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.dvasyliev.com/courses"><img src="https://img.shields.io/badge/Courses-235K%2B_students-A435F0?style=flat&logo=udemy&logoColor=white" alt="Courses"/></a>
 <a href="https://github.com/dvasyliev"><img src="https://img.shields.io/github/followers/dvasyliev?label=Follow&style=social" alt="Follow"/></a>
@@ -93,4 +93,4 @@ I teach developers what I use in production: practical, project-based courses on
 📩 Building a product or stuck with old code? Write to me and tell me about it.
 
 <a href="mailto:jobs@dvasyliev.com"><img src="https://img.shields.io/badge/Email-jobs@dvasyliev.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/dvasyliev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/dvasyliev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
