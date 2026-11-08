@@ -13,9 +13,9 @@
 
 🤖 **AI & Agents:** I set up the team's AI development workflow on Claude Code: features ship faster, merge requests arrive cleaner, an agent handles the routine of finding and fixing review issues, and test coverage grew to **70–80%**.
 
-🏗️ **Architecture & Leadership:** I set the technical direction and lead teams from scope to release. At Doccle I cut duplicated UI code several times over with a design system of **90+ components** and led the migration off the legacy stack. At DasLab I grew the frontend team to **5 engineers** and set up the process from scratch.
+🏗️ **Architecture & Leadership:** I set the technical direction and lead teams from scope to release. At Doccle I cut duplicated UI code several times over with a design system of **100+ components** and led the migration off the legacy stack. At DasLab I grew the frontend team to **5 engineers** and set up the process from scratch.
 
-🎯 **Product focus:** I shape the scope with product owners and CTOs: propose simpler ways to build features and decide with them what to ship first. At Doccle I delivered a payment widget to **hundreds of thousands of users**. At DasLab I led the frontend architecture of a diagnostics platform behind **600K+ delivered test results**.
+🎯 **Product focus:** I shape the scope with product owners and CTOs: propose simpler ways to build features and decide with them what to ship first. At Doccle I delivered a payment widget that became **a core part of the business**. At DasLab I led the frontend architecture of a diagnostics platform behind **600K+ delivered test results**.
 
 🎓 On Udemy and Coursera I have taught **235,000+ students** in **25+ courses**, with a **4.4+ average rating**.
 
