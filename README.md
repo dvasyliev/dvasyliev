@@ -19,7 +19,7 @@
 
 🎓 On Udemy and Coursera I have taught **235,000+ students** in **25+ courses**, with a **4.4+ average rating**.
 
-### Open to long-term remote B2B contract
+### Open to long-term remote contract
 
 📩 Email: [jobs@dvasyliev.com](mailto:jobs@dvasyliev.com)  
 📄 Download my CV: [dmytro-vasyliev-senior-full-stack-engineer.pdf](https://www.dvasyliev.com/dmytro-vasyliev-senior-full-stack-engineer.pdf)
