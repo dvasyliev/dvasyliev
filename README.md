@@ -9,15 +9,17 @@
 
 ## About Me
 
-👨‍💻 I am a **Senior Frontend & Full-Stack Engineer** with **11+ years** of experience building web applications. For the past four years I have led the frontend at Doccle, a document platform used by **2.5M people** and integrated with **150+ companies**.
+👨‍💻 I am a **Senior Frontend & Full-Stack Engineer** with **11+ years** of experience building web applications in React, Next.js, TypeScript and Node.js. For the past 4 years I have led the frontend at Doccle, a document platform used by **2.5M people**.
 
-🤖 **AI & Agents:** I set up the team's AI workflow on Claude Code: features ship faster, merge requests arrive cleaner, an agent handles the routine of finding and fixing review issues, and **grew test coverage to 70–80%**.
+🧭 **Frontend leadership:** I joined Doccle as the only frontend engineer and led the move of the whole product from Grails and Angular to Next.js while shipping core features with backend engineers from several teams. At DasLab, as Technical Frontend Lead, I grew the team to **5 engineers** and set up code review, testing and releases.
 
-🏗️ **Architecture & Leadership:** I set the technical direction and lead teams from scope to release. At Doccle I cut duplicated UI code several times over with a design system of **100+ components** and led the migration off the legacy stack. At DasLab I grew the frontend team to **5 engineers** and set up the process from scratch.
+🏗️ **Architecture:** At Doccle I own the frontend architecture of the Nx monorepo and built its design system of **100+** accessible components, moved every app onto it and raised test coverage to **70–80%**. At Webjet I led the migration from AngularJS to Vue. At Blackbell I migrated old functionality from Backbone to Vue.
 
-🎯 **Product focus:** I shape the scope with product owners and CTOs and decide what to ship first. At Doccle I built a payment widget, **a core part of the business**; at DasLab, the frontend behind **600K+ delivered test results**.
+🎯 **Features end to end:** I shape scope with product owners and propose simpler solutions. At Doccle I built a complex payment widget that began the migration: prototype in **2 mo**, MVP in **6 mo**. It now runs in many apps and pages. At DasLab I chose the stack for 2 apps from scratch (patient booking, lab admin), behind **600K+** test results.
 
-🎓 On Udemy and Coursera I have taught **235,000+ students** in **25+ courses**, with a **4.4+ average rating**.
+🤖 **AI workflow:** At Doccle my AI guidelines keep code consistent team-wide, backend included, and an agent takes a task from Jira to a merge request, which speeds up delivery and eases code review.
+
+🎓 **Teaching:** I have taught **235,000+ students** in **25+ courses** on AI agents and web development on Udemy and Coursera, rated **4.4+** on average.
 
 ### Open to long-term remote contract
 
